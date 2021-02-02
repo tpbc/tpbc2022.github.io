@@ -17,7 +17,7 @@ title: Theory and Practice of Blockchains
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blockchains are so cool.
-  This is a sm
+  This is a small test description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
