@@ -5,6 +5,10 @@
 layout: home
 --- 
 
+<head>
+<link rel="stylesheet" href="/css/main.css">
+</head>
 
-<h1> test </h1>
-Bla bla test Jovana
+<body>
+<button type="button" class="btn btn-primary">Primary</button>
+</body>
