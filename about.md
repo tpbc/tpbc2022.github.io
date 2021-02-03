@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+layout: splash
 ---
 
 This is the about page.

@@ -33,8 +33,6 @@ plugins:
 sass:
   sass_dir: css
 
-defualts:
-  - layouts: splash #To override this in a page, add 'layout: name' in Front Matter part (top)
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -16,9 +16,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 
 ## About
-The program included recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics. The workshop aimed to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.
+The workshop on Theory and Practice of Blockchains aims to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.
+The program includes recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics.
 
-## Committee
-Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
-
-
+## Committee 
+TPBC21 is organized by the Cryptology and Data Security group at the Institute of CS of the University of Bern.

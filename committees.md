@@ -1,6 +1,7 @@
 ---
 title: Committees
 permalink: /committees/
+layout: splash
 ---
 
 # Organizers

@@ -1,6 +1,7 @@
 ---
 title: Presentations
 permalink: /presentations/
+layout: splash
 ---
 
 # This is the presentations page
