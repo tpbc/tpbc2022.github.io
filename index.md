@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: splash
 classes: wide
 sidebar:
   nav: "menu"
@@ -13,18 +13,6 @@ sidebar:
 </head>
 
 <body>
-    <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Home</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Registration</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Program</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Accepted papers</a></li>
-                    </ul>
-                </div>
-        </nav>
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
