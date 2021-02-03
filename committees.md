@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Organizers and Committees
 permalink: /committees/
 ---
 

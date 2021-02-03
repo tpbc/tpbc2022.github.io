@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Past events
 permalink: /past_events/
 ---
 
