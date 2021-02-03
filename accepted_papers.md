@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /accepted_papers/
+permalink: /accepted-papers/
 ---
 
 # Accepted papers

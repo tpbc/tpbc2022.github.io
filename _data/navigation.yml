@@ -1,9 +1,9 @@
 main:
   - title: "Home"
-    url:  ./index.md
+    url:  ./
   - title: "Registration"
-    url:  ./registrations.md
+    url:  ./registration/
   - title: "Program"
-    url:  ./program.md
+    url:  ./program/
   - title: "Accepted papers"
-    url:  ./registrations.md
+    url:  ./accepted-papers/
