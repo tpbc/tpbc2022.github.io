@@ -5,5 +5,11 @@ main:
     url:  ./registration/
   - title: "Program"
     url:  ./program/
+  - title: "Call for papers"
+    url:  /call-for-papers/
   - title: "Accepted papers"
     url:  ./accepted-papers/
+  - title: "Past events"
+    url:  ./past-events/
+  - title: "Contact"
+    url:  ./contact/

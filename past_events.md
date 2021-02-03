@@ -1,6 +1,6 @@
 ---
 Title: Past events
-permalink: /past_events/
+permalink: /past-events/
 
 #Related to theme Minimal Mistakes
 layout: single

@@ -1,6 +1,6 @@
 ---
 title: Call for papers
-permalink: /call_for_papers/
+permalink: /call-for-papers/
 
 #Related to theme Minimal Mistakes
 layout: single

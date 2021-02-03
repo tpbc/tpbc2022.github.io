@@ -3,11 +3,15 @@ title: Program
 permalink: /program/
 
 #Related to theme Minimal Mistakes
-layout: single
-classes: wide
+title: "Program"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header-bg.jpg
 ---
 
-# This is a test.
+# This is a program.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus imperdiet neque. Sed in consectetur libero. Sed porttitor semper libero sed commodo. Donec et ligula vel sem efficitur tristique at sed ex. Morbi vehicula tincidunt ex non eleifend. In congue vel neque auctor rhoncus. Aenean blandit orci leo. Phasellus luctus, orci vitae eleifend rutrum, nulla eros dapibus ligula, et rutrum magna tortor ut ipsum. Nulla et eleifend enim. Ut rhoncus elementum nulla placerat euismod. Sed semper ipsum nec aliquam efficitur. Vivamus libero dui, rhoncus nec aliquet ut, ultrices placerat felis. Proin euismod felis diam, ac dignissim libero tempor pretium. Vivamus interdum ligula ex, vitae faucibus mi rhoncus sit amet. Nulla facilisi.
 
 Nam venenatis sodales pretium. Phasellus non scelerisque neque. Ut lacinia nulla faucibus sapien scelerisque, sit amet aliquam risus rutrum. Donec quis libero pretium, fringilla lectus vitae, pulvinar mi. Nulla eget neque dictum, lacinia lacus et, convallis elit. Quisque arcu justo, luctus vitae cursus id, lobortis eu diam. Integer vel nisi nulla. Duis eget sem in nisi egestas iaculis. Aliquam at ligula bibendum, porttitor nunc eget, scelerisque sapien.
