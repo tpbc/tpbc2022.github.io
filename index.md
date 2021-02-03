@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: single
+layout: splash
 classes: wide
 title: Theory and practice of Blockchains
 excerpt: Online weekly seminar from 19. May to 07. July 2021.
