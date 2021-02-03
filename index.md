@@ -4,8 +4,14 @@
 
 layout: single
 classes: wide
+title: Theory and practice of Blockchains
+excerpt: Online weekly seminar from 19. May to 07. July 2021.
 header:
   image: /assets/images/header-bg.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Register now"
+      url: registrations.md
 --- 
 # About
 
