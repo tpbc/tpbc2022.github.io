@@ -1,5 +1,9 @@
 main:
-  - title: "About"
-    url:  ./about.md
+  - title: "Home"
+    url:  ./index.md
   - title: "Registration"
+    url:  ./registrations.md
+  - title: "Program"
+    url:  ./program.md
+  - title: "Accepted papers"
     url:  ./registrations.md
