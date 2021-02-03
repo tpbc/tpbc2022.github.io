@@ -1,17 +1,19 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: "Theory and practice of Blockchains"
 layout: splash
-classes: wide
-title: Theory and practice of Blockchains
-excerpt: Online weekly seminar from 19. May to 07. July 2021.
+permalink: /home/
 header:
-  image: /assets/images/header-bg.jpg
-  overlay_filter: 0.5
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header-bg.jpg
   actions:
     - label: "Register now"
-      url: registrations.md
+      url: "www.google.com"
+excerpt: "Online weekly seminars from 19. May until 07. July 2021"
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 --- 
 # About
 
