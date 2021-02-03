@@ -24,7 +24,6 @@ sidebar:
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Accepted papers</a></li>
                     </ul>
                 </div>
-            </div>
         </nav>
         <!-- Masthead-->
         <header class="masthead">
