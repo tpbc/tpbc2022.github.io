@@ -1,5 +1,5 @@
-menu:
+main:
   - title: "About"
-    url:  about.md
+    url:  ./about.md
   - title: "Registration"
-    url: registrations.md
+    url:  ./registrations.md
