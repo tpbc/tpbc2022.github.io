@@ -14,8 +14,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 --- 
 <center>
 <h2>About</h2>
-<h3>The program included recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics. The workshop aimed to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.</h3>
+The program included recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics. The workshop aimed to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.
+<br>
+<h2>Committee</h2>
+Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
 </center>
-<br>
----
-<br>
