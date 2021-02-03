@@ -1,0 +1,9 @@
+main:
+  - title: About
+  url: about.md 
+  - title: Program
+  url: program.md 
+  - title: Registration
+  url: registration.md 
+  - title: Accepted papers
+  url: accepted_papers.md 

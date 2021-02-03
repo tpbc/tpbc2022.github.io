@@ -10,20 +10,6 @@ layout: home
 </head>
 
 <body>
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-            <div class="container">
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#home">Home</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#program">Program</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#registration">Registration</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#accepted">Accepted papers</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
