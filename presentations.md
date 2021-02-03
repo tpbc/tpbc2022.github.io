@@ -1,6 +1,10 @@
 ---
-layout: page
+title: Presentations
 permalink: /presentations/
+
+#Related to theme Minimal Mistakes
+layout: single
+classes: wide
 ---
 
 # This is the presentations page

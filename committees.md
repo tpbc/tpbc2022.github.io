@@ -1,6 +1,10 @@
 ---
-layout: page
+title: Committees
 permalink: /committees/
+
+#Related to theme Minimal Mistakes
+layout: single
+classes: wide
 ---
 
 # Organizers

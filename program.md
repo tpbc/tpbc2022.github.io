@@ -1,7 +1,10 @@
 ---
-layout: page
 title: Program
 permalink: /program/
+
+#Related to theme Minimal Mistakes
+layout: single
+classes: wide
 ---
 
 # This is a test.
