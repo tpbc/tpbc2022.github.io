@@ -1,10 +1,6 @@
 ---
 title: Accepter papers
 permalink: /accepted-papers/
-
-#Related to theme Minimal Mistakes
-layout: single
-classes: wide
 ---
 
 # Accepted papers

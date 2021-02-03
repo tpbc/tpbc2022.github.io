@@ -1,10 +1,6 @@
 ---
 title: Registration
 permalink: /registration/
-
-#Related to theme Minimal Mistakes
-layout: single
-classes: wide
 ---
 
 # Register for TPBC 2021

@@ -1,10 +1,6 @@
 ---
 title: About
 permalink: /about/
-
-#Related to theme Minimal Mistakes
-layout: single
-classes: wide
 ---
 
 This is the about page.

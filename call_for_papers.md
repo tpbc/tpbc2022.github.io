@@ -1,10 +1,6 @@
 ---
 title: Call for papers
 permalink: /call-for-papers/
-
-#Related to theme Minimal Mistakes
-layout: single
-classes: wide
 ---
 
 # Submission instructions for TPBC 2021

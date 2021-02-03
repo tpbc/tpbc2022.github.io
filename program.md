@@ -2,9 +2,6 @@
 title: Program
 permalink: /program/
 
-#Related to theme Minimal Mistakes
-title: "Program"
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
