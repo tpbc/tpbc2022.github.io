@@ -25,8 +25,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+theme: minima
 plugins:
   - jekyll-feed
 
