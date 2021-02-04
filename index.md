@@ -20,4 +20,4 @@ The workshop on Theory and Practice of Blockchains aims to enable interdisciplin
 The program includes recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics.
 
 ## Committee 
-TPBC21 is organized by the Cryptology and Data Security group at the Institute of CS of the University of Bern.
+TPBC21 is organized by the [Cryptology and Data Security group](crypto.unibe.ch) from the University of Bern.
