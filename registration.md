@@ -1,4 +1,5 @@
 ---
+title: Registration
 permalink: /registration/
 layout: splash
 #Minimal Mistakes theme allows image and text overlay:
