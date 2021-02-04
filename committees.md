@@ -1,5 +1,5 @@
 ---
-title: Committees
+Title: Committees
 permalink: /committees/
 layout: splash
 #Minimal Mistakes theme allows image and text overlay:
@@ -14,12 +14,13 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 ---
 TBA
 
-# Program Committee
+## Program Committee
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus imperdiet neque. Sed in consectetur libero. Sed porttitor semper libero sed commodo. Donec et ligula vel sem efficitur tristique at sed ex. Morbi vehicula tincidunt ex non eleifend. In congue vel neque auctor rhoncus. Aenean blandit orci leo. Phasellus luctus, orci vitae eleifend rutrum, nulla eros dapibus ligula, et rutrum magna tortor ut ipsum. Nulla et eleifend enim. Ut rhoncus elementum nulla placerat euismod. Sed semper ipsum nec aliquam efficitur. Vivamus libero dui, rhoncus nec aliquet ut, ultrices placerat felis. Proin euismod felis diam, ac dignissim libero tempor pretium. Vivamus interdum ligula ex, vitae faucibus mi rhoncus sit amet. Nulla facilisi.
 
 Nam venenatis sodales pretium. Phasellus non scelerisque neque. Ut lacinia nulla faucibus sapien scelerisque, sit amet aliquam risus rutrum. Donec quis libero pretium, fringilla lectus vitae, pulvinar mi. Nulla eget neque dictum, lacinia lacus et, convallis elit. Quisque arcu justo, luctus vitae cursus id, lobortis eu diam. Integer vel nisi nulla. Duis eget sem in nisi egestas iaculis. Aliquam at ligula bibendum, porttitor nunc eget, scelerisque sapien.
 
-# Organization Committee
+## Organization Committee
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur et cursus sem. Fusce lacus dolor, imperdiet ac odio et, pretium molestie mi. Quisque eleifend rhoncus nibh vitae consequat. Nunc vel nisi ac libero porta rhoncus. Integer quis fermentum odio, eget elementum urna. Aenean dictum arcu vel diam convallis, accumsan vestibulum elit lobortis. Integer accumsan porta tortor, a fringilla massa mollis vel. Maecenas in ligula vitae sem posuere malesuada. Nullam luctus, diam in blandit finibus, libero tellus interdum magna, id vulputate diam enim id nibh. In auctor porttitor massa in molestie. Sed vestibulum condimentum sapien, a convallis diam. Nullam venenatis, nibh eget facilisis condimentum, leo orci ultrices risus, a euismod diam ipsum nec enim. Curabitur in rutrum lorem, ac tristique turpis.
 
 Aliquam ut feugiat lorem, id imperdiet nulla. Sed sollicitudin dignissim leo, et efficitur risus rhoncus sed. Cras blandit sollicitudin ipsum at placerat. Donec a bibendum nibh, in rhoncus lectus. Aliquam erat volutpat. Etiam quis nunc sem. Aenean fringilla eros odio, vitae dignissim sem facilisis nec. Proin arcu eros, blandit sed bibendum sit amet, maximus a ante. Curabitur eget leo dui. Sed consequat metus vel efficitur blandit. Nam eu bibendum ipsum, a mattis risus. Aliquam facilisis rhoncus urna, eu venenatis lacus iaculis a. Curabitur ut fringilla mauris. Nullam laoreet neque diam, sed fringilla sapien mollis sed.

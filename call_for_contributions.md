@@ -1,5 +1,5 @@
 ---
-title: Call for contributions
+Title: Call for contributions
 permalink: /call-for-contributions/
 layout: splash
 #Minimal Mistakes theme allows image and text overlay:

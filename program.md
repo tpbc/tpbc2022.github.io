@@ -1,5 +1,5 @@
 ---
-title: Program
+Title: Program
 permalink: /program/
 layout: splash
 #Minimal Mistakes theme allows image and text overlay:
