@@ -2,7 +2,17 @@
 title: Committees
 permalink: /committees/
 layout: splash
+#Minimal Mistakes theme allows image and text overlay:
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header-bg.jpg
+  actions:
+    - label: "Register now"
+      url: /registration/
+excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 ---
+TBA
 
 # Program Committee
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus imperdiet neque. Sed in consectetur libero. Sed porttitor semper libero sed commodo. Donec et ligula vel sem efficitur tristique at sed ex. Morbi vehicula tincidunt ex non eleifend. In congue vel neque auctor rhoncus. Aenean blandit orci leo. Phasellus luctus, orci vitae eleifend rutrum, nulla eros dapibus ligula, et rutrum magna tortor ut ipsum. Nulla et eleifend enim. Ut rhoncus elementum nulla placerat euismod. Sed semper ipsum nec aliquam efficitur. Vivamus libero dui, rhoncus nec aliquet ut, ultrices placerat felis. Proin euismod felis diam, ac dignissim libero tempor pretium. Vivamus interdum ligula ex, vitae faucibus mi rhoncus sit amet. Nulla facilisi.
