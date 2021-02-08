@@ -45,13 +45,13 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 ## Organization Committee
 
-* [Ignacio Amores-Sesar](https://crypto.unibe.ch/ias/), University of Bern Switzerland
+* [Ignacio Amores-Sesar](https://crypto.unibe.ch/ias/), University of Bern, Switzerland
 
-* [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern Switzerland
+* [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland
 
 * [Giorgia Azzurra Marson](https://crypto.unibe.ch/gm/), University of Bern, Switzerland
 
-* [Jovana Micic](https://crypto.unibe.ch/jm/), University of Bern Switzerland
+* [Jovana Micic](https://crypto.unibe.ch/jm/), University of Bern, Switzerland
 
-* [Luca Zanolini](https://crypto.unibe.ch/lz/), University of Bern Switzerland
+* [Luca Zanolini](https://crypto.unibe.ch/lz/), University of Bern, Switzerland
 
