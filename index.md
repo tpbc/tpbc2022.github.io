@@ -25,8 +25,8 @@ The program includes recent research in the sub-themes of consensus protocols, z
 The workshop features invited presentations and contributed talks.
 
 TPBC 2021 is held as an online weekly seminar series from May 2021 to early
-July 2021.  The tentative schedule is every Wednesday, starting at 17:00
-CET to about 19:00 CET.
+July 2021.  The tentative schedule is every Wednesday, starting around 17h
+CET and running until about 19h CET.
 
 ## Organization
 
