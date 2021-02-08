@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: "Theory and practice of Blockchains"
+title: "Theory and Practice of Blockchains"
 layout: splash
 #Minimal Mistakes theme allows image and text overlay:
 header:
@@ -16,8 +16,18 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 
 ## About
+
 The workshop on Theory and Practice of Blockchains aims to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.
 The program includes recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics.
 
-## Committee 
+## Format
+
+The workshop features invited presentations and contributed talks.
+
+TPBC 2021 is held as an online weekly seminar series from May 2021 to early
+July 2021.  The tentative schedule is every Wednesday, starting at 17:00
+CET to about 19:00 CET.
+
+## Organization
+
 TPBC21 is organized by the [Cryptology and Data Security group](https://crypto.unibe.ch/) from the University of Bern.
