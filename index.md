@@ -18,7 +18,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 ## About
 
 The workshop on Theory and Practice of Blockchains aims to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.
-The program includes recent research in the sub-themes of consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics.
+The program includes recent research in all areas relevant to the theory and practice of blockchains.  In particular, consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics.
 
 ## Format
 

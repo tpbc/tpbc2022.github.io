@@ -20,13 +20,13 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 * [Christian Cachin](https://crypto.unibe.ch/cc/), University of Bern, Switzerland (Co-chair)
 
-* [Vanesa Daza](https://www.upf.edu/web/vanesa-daza), Pompeu Fabra University, Spain (Co-chair)
+* [Vanesa Daza](https://www.upf.edu/web/vanesa-daza), Pompeu Fabra University, Spain
 
-* [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), IISc Bangalore, India
+* [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), IISc Bangalore, India  (Co-chair)
 
 * [Giorgia Azzurra Marson](https://crypto.unibe.ch/gm/), University of Bern, Switzerland
 
-* [Sarah Meiklejohn](https://smeiklej.com), UCL London, UK
+* [Sarah Meiklejohn](https://smeiklej.com), UCL, UK
 
 * [Pedro Moreno-Sanchez](https://software.imdea.org/people/pedro.moreno/index.html), IMDEA Software Institute, Spain
 
