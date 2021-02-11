@@ -40,7 +40,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 * [Daniel Tschudi](https://singularity.ch/tschudi/), Concordium, Switzerland
 
-* [Vassillis Zikas](http://vassiliszikas.com), University of Edinburgh, UK
+* [Vassilis Zikas](http://vassiliszikas.com), Purdue University, USA
 
 
 ## Organization Committee
