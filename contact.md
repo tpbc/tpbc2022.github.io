@@ -13,4 +13,4 @@ header:
 excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 ---
 
-TBA
+Coming soon
