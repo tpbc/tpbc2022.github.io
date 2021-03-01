@@ -26,7 +26,7 @@ The workshop features invited presentations and contributed talks.
 
 TPBC 2021 is held as an online weekly seminar series from May 2021 to early
 July 2021.  The tentative schedule is every Wednesday, starting around 17h
-CET and running until about 19h CET.
+CEST and running until about 19h CEST.
 
 ## Organization
 
