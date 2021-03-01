@@ -48,5 +48,4 @@ and works under review are welcome.
 
 ## Submission system
 
-The link for submissions will be posted here.
-
+Please submit your work [here](https://secure.iacr.org/websubrev/tpbc2021/submit/ "TPBC'21 submission page")
