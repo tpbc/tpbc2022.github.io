@@ -41,7 +41,7 @@ and works under review are welcome.
 
 2. Submissions can be an extended abstract or a full paper. The submissions can be anonymous if the authors choose to.
 
-3. Deadline for submission of contributed talks is 15 March 2021 (23:59 AoE).
+3. Deadline for submission of contributed talks is **21 March 2021 (23:59 AoE)**.
 
 4. Notifications of decisions will be sent out by 15 April 2021.
 
