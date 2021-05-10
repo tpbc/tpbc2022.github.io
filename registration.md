@@ -19,6 +19,8 @@ Registration for TPBC 2021 is required but free.  Please register by subscribing
 
 [https://list.inf.unibe.ch/postorius/lists/tpbc.list.inf.unibe.ch/](https://list.inf.unibe.ch/postorius/lists/tpbc.list.inf.unibe.ch/)
 
+There is no need to create an account. Just fill in your email on form there and follow the instructions.
+
 You may also send email to `tpbc-request@list.inf.unibe.ch` with `Subject: request`.
 
 The list is moderated and only distributes announcements about the workshop series on Theory and Practice of Blockchains and about the 2021 online workshop.
