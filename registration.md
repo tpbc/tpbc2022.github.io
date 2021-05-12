@@ -17,7 +17,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 Registration for TPBC 2021 is required but free.  Please register for TPBC 2021 by subscribing to the TPBC Workshop mailing list `tpbc@list.inf.unibe.ch` via the web interface here:
 
-[https://list.inf.unibe.ch/postorius/lists/tpbc.list.inf.unibe.ch/](https://list.inf.unibe.ch/postorius/lists/tpbc.list.inf.unibe.ch/)
+[https://list.inf.unibe.ch/postorius/lists/tpbc.list.inf.unibe.ch/](https://list.inf.unibe.ch/postorius/lists/tpbc.list.inf.unibe.ch/){: .notice}
 
 There is no need to create an account. Just fill in your email on form there and follow the instructions.
 
