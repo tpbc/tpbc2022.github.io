@@ -138,7 +138,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor6"></a> 
 ### Wednesday, 23rd June 2021
 
-* **15:00 UTC: Title TBA**   
+* **15:00 UTC: : Keynote: Title TBA**   
    *Ittai Abraham*   
    VMware   
 

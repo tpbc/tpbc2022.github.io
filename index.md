@@ -14,6 +14,17 @@ header:
 excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 --- 
 
+## Keynote speakers
+
+* Tim Roughgarden, Columbia University
+* Ari Juels, Cornell Tech
+* Andreas Rossberg, DFINITY
+* Roger Wattenhofer, ETH Zurich
+* Sara Tucci, CEA LIST
+* Ittai Abraham, VMware
+* Giulia Fanti, Carnegie Mellon University
+
+
 
 ## About
 
