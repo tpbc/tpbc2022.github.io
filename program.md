@@ -21,6 +21,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor1"></a>
 ### Wednesday, 19th May 2021
 
+*Session chair: NN* 
+
 * **15:00 UTC: Keynote: Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559**   
    *Tim Roughgarden*  
    Columbia University  
@@ -45,6 +47,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor2"></a>
 ### Wednesday, 26th May 2021
 
+*Session chair: Pedro Moreno-Sanchez* 
+
 * **15:00 UTC: Keynote: Title TBA**   
    *Ari Juels*   
    Cornell Tech   
@@ -67,6 +71,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
  
 <a name="anchor3"></a>
 ### Wednesday, 2nd June 2021
+
+*Session chair: Vassilis Zikas*
 
 * **15:00 UTC: Keynote: Title TBA**   
    *Andreas Rossberg*   
@@ -114,6 +120,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor5"></a>
 ### Wednesday, 16th June 2021
 
+*Session chair: Simon Thompson*
+
 * **15:00 UTC: Keynote: Economic Incentives and Blockchain Consensus**    
    *Sara Tucci*   
    CEA LIST   
@@ -138,6 +146,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor6"></a> 
 ### Wednesday, 23rd June 2021
 
+*Session chair: Simon Thompson* 
+
 * **15:00 UTC: : Keynote: Title TBA**   
    *Ittai Abraham*   
    VMware   
@@ -161,6 +171,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 <a name="anchor7"></a>
 ### Wednesday, 30th June 2021
+
+*Session chair: Christian Badertscher* 
 
 * **15:00 UTC: Keynote: On the Central Role of Networks in Blockchain Privacy, Security, and Performance**   
    *Giulia Fanti*   
