@@ -203,14 +203,16 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor8"></a> 
 ### Wednesday, 7th July 2021   
 
-*Session chair: NN*
+*Session chair: Claudio Orlandi*
 
-* **15:00 UTC: Keynote: NN**   
-<br/><br/>
+* **15:00 UTC: Keynote: Title TBA**   
+   *Rafael Pass*   
+   Cornell University   
+
 * **15:45 UTC:** Break   
 
 * **16:00 UTC:** Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures   
-   *Sri Aravinda Krishnan Thyagarajan, Giulio Malavolta *    
+   *Sri Aravinda Krishnan Thyagarajan, Giulio Malavolta*    
    Friedrich Alexander Universität Erlangen-Nürnberg, Max Planck Institute for Security and Privacy   
 
 * **16:30 UTC:** Differentially Private Mixing for Cryptocurrencies   
@@ -222,4 +224,4 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
    Friedrich-Alexander-Universität Erlangen-Nürnberg, The Chinese University of Hong Kong   
 
 * **17:30 UTC:** End of session   
- 
+
