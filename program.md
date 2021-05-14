@@ -69,6 +69,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 * **17:30 UTC:** End of session   
  
+
 <a name="anchor3"></a>
 ### Wednesday, 2nd June 2021
 
@@ -94,8 +95,11 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 * **17:30 UTC:** End of session   
  
+
 <a name="anchor4"></a> 
 ### Wednesday, 9th June 2021
+
+*Session chair: NN*
 
 * **15:00 UTC: Keynote: Title TBA**   
    *Roger Wattenhofer*   
@@ -117,10 +121,11 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 * **17:30 UTC:** End of session   
 
+
 <a name="anchor5"></a>
 ### Wednesday, 16th June 2021
 
-*Session chair: Simon Thompson*
+*Session chair: Bas Spitters*
 
 * **15:00 UTC: Keynote: Economic Incentives and Blockchain Consensus**    
    *Sara Tucci*   
@@ -197,6 +202,8 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 <a name="anchor8"></a> 
 ### Wednesday, 7th July 2021   
+
+*Session chair: NN*
 
 * **15:00 UTC: Keynote: NN**   
 <br/><br/>
