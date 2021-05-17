@@ -23,7 +23,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 * Sara Tucci, CEA LIST
 * Ittai Abraham, VMware
 * Giulia Fanti, Carnegie Mellon University
-
+* Rafael Pass, Cornell University
 
 
 ## About
