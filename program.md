@@ -21,7 +21,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor1"></a>
 ### Wednesday, 19th May 2021
 
-*Session chair: NN* 
+*Session chair: Christian Cachin* 
 
 * **15:00 UTC: Keynote: Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559**   
    *Tim Roughgarden*  
@@ -99,7 +99,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor4"></a> 
 ### Wednesday, 9th June 2021
 
-*Session chair: NN*
+*Session chair: Jesper Buus Nielsen*
 
 * **15:00 UTC: Keynote: Title TBA**   
    *Roger Wattenhofer*   
