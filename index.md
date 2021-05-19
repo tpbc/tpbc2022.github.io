@@ -14,7 +14,6 @@ header:
 excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 --- 
 
-**Zoom participation is limited to 100. If you have problems joining, watch live on Youtube [TPBC Channel](https://www.youtube.com/channel/UC_twxak5nXJrG-krI2c8YJA/featured)**
 
 
 ## Keynote speakers
@@ -45,7 +44,9 @@ followed by three contributed talks, and running until about 17:30 UTC.
 
 Please register to participate.  Sessions will be held online using Zoom, and the link will be sent by email to the registered participants.
 
-We plan to record the sessions and make them available in the Youtube channel of TPBC.
+**Zoom participation is limited to the first 100. If you have problems joining, watch the session live on [Youtube](https://www.youtube.com/channel/UC_twxak5nXJrG-krI2c8YJA/featured).**
+
+Sessions are recorded and we will make them available in the [TPBC Youtube Channel](https://www.youtube.com/channel/UC_twxak5nXJrG-krI2c8YJA/featured).
 
 
 ## Organization
