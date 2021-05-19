@@ -14,6 +14,9 @@ header:
 excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 --- 
 
+**Watch live on Youtube Streaming in the [TPBC Channel](https://www.youtube.com/channel/UC_twxak5nXJrG-krI2c8YJA/featured)**
+
+
 ## Keynote speakers
 
 * Tim Roughgarden, Columbia University
