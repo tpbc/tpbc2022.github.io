@@ -24,7 +24,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 * [Chaya Ganesh](https://www.csa.iisc.ac.in/~chaya/), IISc Bangalore, India  (Co-chair)
 
-* [Giorgia Azzurra Marson](https://crypto.unibe.ch/gm/), University of Bern, Switzerland
+* [Giorgia Azzurra Marson](https://crypto.unibe.ch/gm/), NEC Laboratories Europe, Germany, and University of Bern, Switzerland
 
 * [Sarah Meiklejohn](https://smeiklej.com), UCL, UK
 
