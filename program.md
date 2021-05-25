@@ -75,7 +75,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 *Session chair: Vassilis Zikas*
 
-* **15:00 UTC: Keynote: Title TBA**   
+* **15:00 UTC: Keynote: Beyond "Smart Contracts" - General-Purpose Computation on the Blockchain**   
    *Andreas Rossberg*   
    DFINITY   
 
