@@ -167,7 +167,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
    *Peiyao Sheng, Gerui Wang, Kartik Nayak, Sreeram Kannan, Pramod Viswanath*   
    UIUC, Duke University, University of Washington   
 
-* **17:00 UTC:** Achieving State Machine Replication without Honesty Assumptions
+* **17:00 UTC:** Achieving State Machine Replication without Honest Players
    *Conor McMenamin, Vanesa Daza, Matteo Pontecorvi*    
    Universitat Pompeu Fabra, CYBERCAT - Center for Cybersecurity Research of Catalonia, NOKIA Bell Labs Nozay   
 
