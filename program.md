@@ -101,7 +101,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 *Session chair: Jesper Buus Nielsen*
 
-* **15:00 UTC: Keynote: Title TBA**   
+* **15:00 UTC: Keynote: Should We Care About Central Bank Digital Currency?**   
    *Roger Wattenhofer*   
    ETH Zurich   
 
