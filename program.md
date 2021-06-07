@@ -153,7 +153,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 *Session chair: Simon Thompson* 
 
-* **15:00 UTC: : Keynote: Title TBA**   
+* **15:00 UTC: : Keynote: Scalability of Decentralized Trust: Some Lessons and some Recent Advances**   
    *Ittai Abraham*   
    VMware   
 
