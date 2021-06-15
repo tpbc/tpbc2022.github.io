@@ -125,7 +125,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor5"></a>
 ### Wednesday, 16th June 2021
 
-*Session chair: Bas Spitters*
+*Session chair: Daniel Tschudi*
 
 * **15:00 UTC: Keynote: Economic Incentives and Blockchain Consensus**    
    *Sara Tucci*   
@@ -151,7 +151,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 <a name="anchor6"></a> 
 ### Wednesday, 23rd June 2021
 
-*Session chair: Simon Thompson* 
+*Session chair: Bas Spitters* 
 
 * **15:00 UTC: : Keynote: Scalability of Decentralized Trust: Some Lessons and some Recent Advances**   
    *Ittai Abraham*   
