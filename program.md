@@ -205,7 +205,7 @@ excerpt: "Online weekly seminars from 19. May until 07. July 2021"
 
 *Session chair: Claudio Orlandi*
 
-* **15:00 UTC: Keynote: Title TBA**   
+* **15:00 UTC: Keynote: SPARKs: Succinct Parallelizable Arguments of Knowledge**   
    *Rafael Pass*   
    Cornell University   
 
