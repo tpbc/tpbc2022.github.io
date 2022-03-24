@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Register now"
       url: /registration/
-excerpt: "Online weekly seminars from 19. May until 07. July 2021"
+excerpt: "Website under construction"
 ---
 
 Previous editions of the Theory and Practice of Blockchains Workshop Series

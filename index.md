@@ -11,44 +11,10 @@ header:
   actions:
     - label: "Register now"
       url: /registration/
-excerpt: "Online weekly seminars from 19. May until 07. July 2021"
+excerpt: "Website under construction"
 --- 
 
 
 
-## Keynote speakers
+## Website under construction
 
-* Tim Roughgarden, Columbia University
-* Ari Juels, Cornell Tech
-* Andreas Rossberg, DFINITY
-* Roger Wattenhofer, ETH Zurich
-* Sara Tucci, CEA LIST
-* Ittai Abraham, VMware
-* Giulia Fanti, Carnegie Mellon University
-* Rafael Pass, Cornell University
-
-
-## About
-
-The third workshop on Theory and Practice of Blockchains aims to enable interdisciplinary research and foster collaboration among theoreticians and practitioners in blockchain protocols, distributed systems, and cryptography.
-The program includes recent research in all areas relevant to the theory and practice of blockchains.  In particular, consensus protocols, zero-knowledge proofs, privacy and anonymity-preserving techniques, language design and semantics for smart contracts, formal verification of cryptographic protocols and implementations, among other relevant topics.
-
-
-## Format
-
-The workshop features invited presentations and contributed talks.
-
-TPBC 2021 is held as an online weekly seminar series from May 2021 to early
-July 2021.  Talks run every Wednesday, starting at 15:00 UTC with a keynote,
-followed by three contributed talks, and running until about 17:30 UTC.
-
-Please register to participate.  Sessions will be held online using Zoom, and the link will be sent by email to the registered participants.
-
-**Zoom participation is limited to the first 100. If you have problems joining, watch the session live on [Youtube](https://www.youtube.com/channel/UC_twxak5nXJrG-krI2c8YJA/featured).**
-
-Sessions are recorded and we will make them available in the [TPBC Youtube Channel](https://www.youtube.com/channel/UC_twxak5nXJrG-krI2c8YJA/featured).
-
-
-## Organization
-
-TPBC21 is organized by the [Cryptology and Data Security group](https://crypto.unibe.ch/) from the University of Bern.
